@@ -1,0 +1,12 @@
+C:\Users\Sneha More\source\repos\libMiddleware\lib\bin\Debug\lib.dll.config
+C:\Users\Sneha More\source\repos\libMiddleware\lib\bin\Debug\lib.dll
+C:\Users\Sneha More\source\repos\libMiddleware\lib\bin\Debug\lib.pdb
+C:\Users\Sneha More\source\repos\libMiddleware\lib\bin\Debug\EntityFramework.dll
+C:\Users\Sneha More\source\repos\libMiddleware\lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sneha More\source\repos\libMiddleware\lib\bin\Debug\EntityFramework.xml
+C:\Users\Sneha More\source\repos\libMiddleware\lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sneha More\source\repos\libMiddleware\lib\obj\Debug\lib.csprojAssemblyReference.cache
+C:\Users\Sneha More\source\repos\libMiddleware\lib\obj\Debug\lib.csproj.CoreCompileInputs.cache
+C:\Users\Sneha More\source\repos\libMiddleware\lib\obj\Debug\lib.csproj.CopyComplete
+C:\Users\Sneha More\source\repos\libMiddleware\lib\obj\Debug\lib.dll
+C:\Users\Sneha More\source\repos\libMiddleware\lib\obj\Debug\lib.pdb

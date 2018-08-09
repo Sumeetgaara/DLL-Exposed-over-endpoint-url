@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libMiddleware", "libMiddleware\libMiddleware.csproj", "{D99FE46C-C7C9-460E-9A57-EA16FB602741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib", "lib\lib.csproj", "{B7D74D35-C284-4476-B316-4409E0B7A8FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D99FE46C-C7C9-460E-9A57-EA16FB602741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99FE46C-C7C9-460E-9A57-EA16FB602741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99FE46C-C7C9-460E-9A57-EA16FB602741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99FE46C-C7C9-460E-9A57-EA16FB602741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D74D35-C284-4476-B316-4409E0B7A8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D74D35-C284-4476-B316-4409E0B7A8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D74D35-C284-4476-B316-4409E0B7A8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D74D35-C284-4476-B316-4409E0B7A8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67336DD2-3CCB-4496-83C5-53ED317D6DEF}
+	EndGlobalSection
+EndGlobal
